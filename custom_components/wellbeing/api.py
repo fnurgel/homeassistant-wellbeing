@@ -244,6 +244,7 @@ class WellbeingApiClient:
 
         if 'accessToken' not in self._token:
             self._token = None
+            self._access_token = None
             self._current_token = None
             _LOGGER.error("Unable to login")
             return False
