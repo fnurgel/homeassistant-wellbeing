@@ -14,7 +14,7 @@ Get the status from your Electrolux devices connected to Wellbeing. **Currently,
 - Pure A9 Air Purifier 
 
 ### Install with HACS (recommended)
-Add the url to the repository as a custom integration.
+Do you you have [HACS][hacs] installed? Just search for Electrolux Wellbeing and install it direct from HACS. HACS will keep track of updates and you can easly upgrade this component to latest version.
 
 ### Installation
 
